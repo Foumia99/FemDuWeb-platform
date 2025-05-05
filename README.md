@@ -14,6 +14,6 @@ We plan to use the following technologies for the development of the platform:
 The development of the platform is currently in its early stages. This repository will be used to host the source code as it is developed. We plan to share a first alpha version as soon as the first phase of the pilot is completed and we have started the second phase which consists of the creation of the platform.
 
 ## Contact
-[From Hope to Digital]
+[DigitalNomade2.0]
 [graciasmodera3007@gmail.com]
 
