@@ -1,7 +1,7 @@
 # FemDuWeb-platform
 Platform for the socio-economic empowerment of young girls, mainly young girls who are single mothers who have dropped out of school.
 ## Project Description
-This project aims to develop a digital platform for the socio-economic empowerment and well-being of young single mothers in Cotonou. The platform will offer customized digital skills training, guidance and mentoring tools, a system for connecting with economic opportunities, and health and wellbeing information and support resources.
+This project aims to develop a digital platform for the socio-economic empowerment and well-being of young single mothers in Benin. The platform will offer customized digital skills training, guidance and mentoring tools, a system for connecting with economic opportunities, and health and wellbeing information and support resources.
 ## Planned technologies
 We plan to use the following technologies for the development of the platform:
 
